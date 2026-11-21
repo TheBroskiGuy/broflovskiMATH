@@ -1,6 +1,8 @@
 # Gn-Math
 A website that shares games, mostly Flash games, but it does host a large amount of games, even including ported games!
 
+THIS IS UP TO DATE AS OF NOVEMBER 2026.
+
 ## Image reference
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1bb43ffd-8837-44a3-9bbc-1da733334c7d" />
 
